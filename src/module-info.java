@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Ramazan
+ *
+ */
+module BtkAkademi {
+}
